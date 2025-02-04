@@ -1,0 +1,14 @@
+{
+  "name": "oopui-plugin-utils",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./index.ts"
+    }
+  },
+  "devDependencies": {
+    "oopui-plugin-components": "workspace:*"
+  }
+}

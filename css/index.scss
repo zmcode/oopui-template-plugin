@@ -1,0 +1,22 @@
+@import './ele.scss';
+body,html, #app {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+  border-color: initial;
+  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+}
+
+ul, li, ol {
+  list-style:none;
+  padding: 0;
+  margin: 0;
+}

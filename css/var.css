@@ -1,0 +1,53 @@
+
+:root {
+
+  /* 主题色 */
+  --color-primary: #0B2369;
+  --color-primary-hover: #052686;
+  --color-white: #ffffff;
+  /* 标题栏颜色 */
+  /* 下拉菜单  点击后 菜单背景 菜单条目 */
+  --header-bg: #D4D4D4;
+  --header-color: #303030;
+  --header-drop-menu-color: #303030;
+  --header-drop-menu-acColor: #ffffff;
+  --header-drop-menu-bg: transparent; 
+  --header-drop-menu-acBg: #0B2369;
+
+  /* 菜单 */
+  --menu-bg: #D4D4D4;
+  --menu-color: #303030;
+  --menu-acBg: #333;
+  --menu-outBorder: #737373;
+
+  /* 菜单条目 */
+  --drop-menuItem-bg: #D4D4D4;
+  --drop-menuItem-color: #303030;
+  --drop-menuItem-acBg: #0B2369;
+  --drop-menuItem-acColor: #ffffff;
+
+  --drop-menu-color: #313131;
+  --drop-menu-bg: #D4D4D4;
+  --drop-menu-SplitLine: #C1C1C1;
+  --drop-menu-outBorder: #737373;
+
+  /* 操作区背景 */
+  --control-area-bg: #737373;
+
+  /* 包裹容器 */
+  --panel-header-bg: #D9D9D9;
+  --panel-header-color: #303030;
+  --panel-border-color: #ddd;
+  --panel-content-bg: #D9D9D9;
+  --panel-content-color: #fff;
+
+
+  /* popper 按钮边框 */
+  --popper-btn-border: #737373;
+
+  /* input */
+  --input-bg-color: #fff;
+  --input-border-radius: 0;
+  --input-border-color: #737373;
+  --input-text-color: #020202;
+}
